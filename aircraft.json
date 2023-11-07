@@ -1,0 +1,11 @@
+{
+  "Category A Aircraft": ["A388", "A225"],
+  "Category B Aircraft": ["A330", "A340", "A350", "B747", "B777", "B787", "C5"],
+  "Category C Aircraft": ["A300", "A310", "B767", "C17", "DC10", "MD11"],
+  "Category D Aircraft": ["A330", "B707"],
+  "Category E Aircraft": ["B757"],
+  "Category F Aircraft": ["A32X", "B717", "B727", "B737", "DC9", "E-Jets", "Gulfstream", "MD 80"],
+  "Category G Aircraft": ["ATR", "CRJ", "DH8X", "E135", "E145", "F16", "F18", "FA8X", "SB20", "SF34"],
+  "Category H Aircraft": ["B190", "BE40", "C56X", "C750", "C680", "CL30", "F2TH", "FA50", "H25B", "Learjet"],
+  "Category I Aircraft": ["Kingair", "BE99", "C208", "C210", "C25C", "C441", "C525", "P180", "PAY3", "PA31", "PC12", "SR22"]
+}
